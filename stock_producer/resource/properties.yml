@@ -1,0 +1,21 @@
+stock_name : {
+  AAPL : 'Apple',
+  MSFT : 'Microsoft',
+  AMZN : 'Amazon',
+  TSLA : 'Tesla',
+  NVDA : 'Nvidia',
+  GOOG : 'Alphabet',
+  FB : 'Meta Platforms',
+  ASML : 'ASML Holding',
+  AVGO : 'Broadcom',
+  COST : 'Costco',
+  PEP : 'PepsiCo',
+  CSCO : 'Cisco Systems',
+  CMCSA : 'Comcast',
+  INTC : 'Intel',
+  ADBE : 'Adobe',
+  AZN : 'AstraZeneca',
+  AMD : 'Advanced Micro Devices',
+  QCOM : 'Qualcomm',
+  TXN : 'Texas Instruments'
+}
